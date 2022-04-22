@@ -1,0 +1,48 @@
+*{
+  transition: .4s;
+  word-break:break-word ;
+}
+html{
+
+  scroll-behavior: smooth;
+}
+a{
+  text-decoration: none !important;
+}
+.dropdownParent {
+  list-style-type: none !important;
+}
+.text-them{
+  color: #28b76b;
+}
+.form-group{
+  margin-bottom: 0 !important;
+}
+
+.docs-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.docs-section h3,
+.docs-section p{
+  width: 100%;
+}
+
+.docs-section img{
+  width: 100%;
+}
+
+@media (max-width:998px) {
+  .docs-section img{
+    width: 75%;
+  }
+}
+
+
+@media (max-width:767px) {
+  .docs-section img{
+    width: 100%;
+  }
+}
