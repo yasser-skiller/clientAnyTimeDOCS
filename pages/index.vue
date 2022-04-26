@@ -76,24 +76,24 @@
 							    </div>
 							    <NuxtLink class="card-link-mask" to="docs-page-Introduction#section-1"></NuxtLink>
 						    </div><!--//card-body-->
-					    </div><!--//card-->
-				    </div><!--//col-->
-				    <div class="col-12 col-lg-4 py-3">
+					    </div>
+				    </div>
+				    <!-- <div class="col-12 col-lg-4 py-3">
 					    <div class="card shadow-sm">
 						    <div class="card-body">
 							    <h5 class="card-title mb-3">
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <i class="fas fa-arrow-down"></i>
-							        </span><!--//card-icon-holder-->
+							        </span>
 							        <span class="card-title-text">Installation</span>
 							    </h5>
 							    <div class="card-text">
 								    Section overview goes here. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 							    </div>
 							    <NuxtLink class="card-link-mask" to="docs-page-Installation#section-2"></NuxtLink>
-						    </div><!--//card-body-->
-					    </div><!--//card-->
-				    </div><!--//col-->
+						    </div>
+					    </div>
+				    </div> -->
             <div class="col-12 col-lg-4 py-3">
 					    <div class="card shadow-sm">
 						    <div class="card-body">

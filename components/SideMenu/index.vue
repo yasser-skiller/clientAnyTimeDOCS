@@ -46,7 +46,7 @@
         <li class="nav-item section-title"><NuxtLink class="nav-link scrollto" to="/docs-page-Introduction"><span class="theme-icon-holder me-2"><i class="fas fa-map-signs"></i></span>Introduction</NuxtLink></li>
         <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Introduction#item-1-1">Section Item 1.1</NuxtLink></li> -->
         <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Introduction#item-1-2">Section Item 1.2</NuxtLink></li> -->
-        <li class="nav-item section-title"><NuxtLink class="nav-link scrollto" to="/docs-page-Installation"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Installation</NuxtLink></li>
+        <!-- <li class="nav-item section-title"><NuxtLink class="nav-link scrollto" to="/docs-page-Installation"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Installation</NuxtLink></li> -->
         <!-- <li class="nav-item section-title mt-3"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Installation</li> -->
         <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Installation#item-2-1">Section Item 2.1</NuxtLink></li> -->
         <li class="nav-item section-title mt-3"><span class="theme-icon-holder me-2"><i class="fas fa-tools"></i></span>Admin Dashboard</li>
