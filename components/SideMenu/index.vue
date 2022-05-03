@@ -51,15 +51,20 @@
         <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Installation#item-2-1">Section Item 2.1</NuxtLink></li> -->
         <li class="nav-item section-title mt-3"><span class="theme-icon-holder me-2"><i class="fas fa-tools"></i></span>Admin Dashboard</li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-DashboardPage">Dash Board Page</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Reset-Password">ResetPassword</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-WhatsApp-Connection">WhatsApp Connection</NuxtLink></li>
+        <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Steps">Steps</NuxtLink></li> -->
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Users">Users</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Departments">Departments</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Steps">Steps</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Settings">Settings</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Tickets">Tickets</NuxtLink></li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Settings">Settings</NuxtLink></li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Departments">Departments</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Contacts">Contacts</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Quick Answers">Quick Answers</NuxtLink></li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Reset-Password">ResetPassword</NuxtLink></li>
+
+        <li class="nav-item section-title mt-3"><span class="theme-icon-holder me-2"><i class="fas fa-arrow-down"></i></span>Steps</li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Steps">Step</NuxtLink></li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Greeting-API-Block">Greeting &amp; API Block</NuxtLink></li>
+        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Edit-Message-Block">Edit Message Block</NuxtLink></li>
 
         <li class="nav-item section-title mt-3"><span class="theme-icon-holder me-2"><i class="fas fa-box"></i></span>APIs</li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-APIs-SendText-Message">SendText Message</NuxtLink></li>
@@ -82,10 +87,10 @@
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Resources#item-8-1">Section Item 8.1</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Resources#item-8-2">Section Item 8.2</NuxtLink></li>
         <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-Resources#item-8-3">Section Item 8.3</NuxtLink></li>
-        <li class="nav-item section-title mt-3"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#section-9"><span class="theme-icon-holder me-2"><i class="fas fa-lightbulb"></i></span>FAQs</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-1">Section Item 9.1</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-2">Section Item 9.2</NuxtLink></li>
-        <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-3">Section Item 9.3</NuxtLink></li>
+        <li class="nav-item section-title mt-3"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs"><span class="theme-icon-holder me-2"><i class="fas fa-lightbulb"></i></span>FAQs</NuxtLink></li>
+        <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-1">Section Item 9.1</NuxtLink></li> -->
+        <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-2">Section Item 9.2</NuxtLink></li> -->
+        <!-- <li class="nav-item"><NuxtLink class="nav-link scrollto" to="/docs-page-FAQs#item-9-3">Section Item 9.3</NuxtLink></li> -->
       </ul>
 
     </nav><!--//docs-nav-->

@@ -72,7 +72,7 @@
 							        <span class="card-title-text">Introduction</span>
 							    </h5>
 							    <div class="card-text">
-								    Section overview goes here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+                    It is a platform that provides and specializes in the bot service for WhatsApp, which enables individuals and e-store owners to answer a large number of customers (potential customers) automatically as answering their inquiries
 							    </div>
 							    <NuxtLink class="card-link-mask" to="docs-page-Introduction#section-1"></NuxtLink>
 						    </div><!--//card-body-->
@@ -104,12 +104,28 @@
 							        <span class="card-title-text">Admin Dashboard</span>
 							    </h5>
 							    <div class="card-text">
-								    Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
+                    admin dashboard allow you to connection with your contact and how to handle setting also how to rest password
 								</div>
 							    <NuxtLink class="card-link-mask" to="docs-page-DashboardPage"></NuxtLink>
 						    </div><!--//card-body-->
 					    </div><!--//card-->
 				    </div><!--//col-->
+             <div class="col-12 col-lg-4 py-3">
+					    <div class="card shadow-sm">
+						    <div class="card-body">
+							    <h5 class="card-title mb-3">
+								    <span class="theme-icon-holder card-icon-holder me-2">
+								        <i class="fas fa-arrow-down"></i>
+							        </span>
+							        <span class="card-title-text">Steps</span>
+							    </h5>
+							    <div class="card-text">
+                    Steps Page allow you with an easy drag and drop feature to customize the respond that you want to the customers.
+							    </div>
+							    <NuxtLink class="card-link-mask" to="docs-page-Steps"></NuxtLink>
+						    </div>
+					    </div>
+				    </div>
 				    <div class="col-12 col-lg-4 py-3">
 					    <div class="card shadow-sm">
 						    <div class="card-body">
@@ -120,7 +136,7 @@
 							        <span class="card-title-text">APIs</span>
 							    </h5>
 							    <div class="card-text">
-								    Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
+                    you can program a script or use api like postmane to send messages from your phone that connected with our servers, you will need the token from Settings Page so that we van authorize you
 								</div>
 							    <NuxtLink class="card-link-mask" to="docs-page-APIs-SendText-Message"></NuxtLink>
 						    </div><!--//card-body-->
@@ -200,7 +216,7 @@
 							        <span class="card-title-text">FAQs</span>
 							    </h5>
 							    <div class="card-text">
-								    Section overview goes here. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
+                    Most frequently asked questions about Client any time
 								</div>
 							    <NuxtLink class="card-link-mask" to="docs-page-FAQs#section-9"></NuxtLink>
 						    </div><!--//card-body-->
